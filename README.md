@@ -66,36 +66,5 @@
   <img src="https://streak-stats.demolab.com/?user=sowravbyte&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for sowravbyte" />
 </p>
 
-## 📈 Contribution Activity & Commit Graph
 
-<p align="center">
-  <a href="https://github.com/sowravbyte">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sowravbyte&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph for sowravbyte" width="100%" />
-  </a>
-</p>
 
-### 🐍 Contribution Calendar
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sowravbyte/sowravbyte/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sowravbyte/sowravbyte/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated GitHub contribution calendar" src="https://raw.githubusercontent.com/sowravbyte/sowravbyte/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sowravbyte&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies for sowravbyte" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <i>“Consistency beats intensity. Keep learning, keep building.”</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=100&section=footer" alt="Footer banner" width="100%" />
-</p>
