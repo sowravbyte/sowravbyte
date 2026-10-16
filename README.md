@@ -109,4 +109,8 @@ A medicine and pharmacy management system designed to manage medicine orders, pr
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=100&section=footer" width="100%" alt="Footer banner" />
 </p>
-![snake gif](https://github.com/sowravbyte/sowravbyte/blob/output/github-snake-dark.svg)
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/sowravbyte/sowravbyte/output/github-contribution-grid-snake.svg)
+
