@@ -99,4 +99,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=100&section=footer" alt="Footer banner" width="100%" />
 </p>
-![snake gif](https://github.com/sowravbyte/sowravbyte/blob/output/github-snake-dark.svg)
