@@ -67,20 +67,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-### 💊 MediDrop
-
-A medicine and pharmacy management system designed to manage medicine orders, prescription verification, pharmacy inventory, and delivery tracking.
-
-**Key Features**
-- Medicine and pharmacy management
-- Prescription verification
-- Inventory management
-- Order processing and delivery tracking
-
-**Status:** In Progress
-
 <p align="center">
   <a href="https://github.com/sowravbyte?tab=repositories">
     <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
