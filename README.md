@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,nodejs,go,mongodb,mysql,postgres,git,arduino,pytorch&perline=8" alt="Languages and development tools" />
+    <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,nodejs,go,mongodb,mysql,postgres,git,arduino,pytorch&perline=8" alt="Languages and development tools" />
   </a>
 </p>
 
