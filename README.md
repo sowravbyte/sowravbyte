@@ -47,7 +47,6 @@
 - 🤖 Exploring Artificial Intelligence and Machine Learning.
 - 🧠 Practicing Data Structures and Algorithms (DSA).
 - 🛠️ Learning by building practical projects and solving problems.
-- 💊 Currently working on MediDrop, a medicine and pharmacy management system.
 - 📫 Reach me at **[sourovj08@gmail.com](mailto:sourovj08@gmail.com)**.
 - ⚡ Fun fact: One missing semicolon can ruin my whole day. 😅
 
