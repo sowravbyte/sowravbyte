@@ -75,12 +75,6 @@
 ---
 
 ## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sowravbyte&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowravbyte&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sowravbyte&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
